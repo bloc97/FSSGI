@@ -32,6 +32,10 @@ Local Illumination (**Input**) / Predicted GI (**Output**) / Ground Truth
 ![Examples](res/909.png?raw=true)
 ![Examples](res/909_y.png?raw=true)
 
+# Benchmarks
+**Path Tracer**: 835ms  
+**FSSGI**: 9ms (**92x** Speedup)  
+
 
 ## References
 [1][KAJIYA J.: The Rendering Equation, 1986](http://inst.eecs.berkeley.edu/~cs294-13/fa09/lectures/p143-kajiya.pdf)  
