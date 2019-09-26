@@ -9,7 +9,7 @@ The dataset used in this work is located in the `Blender_Datasets` folder.
 A pre-trained model for the dataset is located in the `Models` folder.  
 
 ## Results
-After some small changes, the new PSNR of the provided model on unseen images (validation set) is **34.28**dB, compared to 33.8dB in the preprint.
+After some small changes, the new PSNR of the provided model on unseen images (validation set) is **34.28** dB, compared to 33.8 dB in the preprint.
 
  - **Path Tracer**: 835ms  
  - **FSSGI**: 9ms (**92x** Speedup)  
