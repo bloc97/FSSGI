@@ -2,7 +2,7 @@
 A screen space method of acheiving global illumination using convolutional neural networks.
 
 ## Resources
-[Preprint](IFT3150_E19_Fast_Screen_Space_Global_Illumination.pdf)
+[Preprint](IFT3150_E19_Fast_Screen_Space_Global_Illumination.pdf)  
 [Code (Jupyter Notebook)](FSSGI_Colab.ipynb)  
 The Jupyter Notebook should be used in [Google Colab](https://colab.research.google.com).  
 The dataset used in this work is located in the `Blender_Datasets` folder.  
