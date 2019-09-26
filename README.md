@@ -21,7 +21,7 @@ After some small changes, the new PSNR of the provided model is **34.28**, compa
  - **FSSGI**: 9ms (**92x** Speedup)  
 
 From Left to Right: 
-Local Illumination (**Input**) / Predicted GI (**Output**) / Ground Truth
+Local Illumination (**Input**) / Predicted GI (**Output**) / Ground Truth (Path Tracer @1000spp)
 
 ![Examples](res/993_x.png?raw=true)
 ![Examples](res/993.png?raw=true)
