@@ -8,6 +8,12 @@ The method presented here removes the path tracing step entirely and only use a 
 
 ### [Full Preprint](IFT3150_E19_Fast_Screen_Space_Global_Illumination.pdf)
 
+# Resources
+[Code (Jupyter Notebook)](FSSGI_Colab.ipynb)  
+The Jupyter Notebook should be used in [Google Colab](https://colab.research.google.com).  
+The dataset used in this work is located in the `Blender_Datasets` folder.  
+A pre-trained model for the dataset is located in the `Models` folder.  
+
 # Examples
 From Left to Right: 
 
