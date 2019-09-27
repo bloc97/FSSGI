@@ -37,6 +37,11 @@ We present a image-translation model that removes the path tracing step entirely
 
 ### [Full Preprint](IFT3150_E19_Fast_Screen_Space_Global_Illumination.pdf)
 
+## Related Work
+[Deep Shading: Convolutional Neural Networks for Screen-Space Shading](http://deep-shading-datasets.mpi-inf.mpg.de/)  
+[Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Network](https://github.com/CreativeCodingLab/DeepIllumination)  
+[Photographic Image Synthesis with Cascaded Refinement Networks](https://cqf.io/ImageSynthesis/)  
+
 ## References
 [1][KAJIYA J.: The Rendering Equation, 1986](http://inst.eecs.berkeley.edu/~cs294-13/fa09/lectures/p143-kajiya.pdf)  
 [2][KULLA C., FAJARDO M.: Importance Sampling Techniques for Path Tracing in Participating Media, 2012](https://www.arnoldrenderer.com/research/egsr2012_volume.pdf)  
