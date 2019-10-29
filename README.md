@@ -1,5 +1,5 @@
 # Fast Screen Space Global Illumination
-A screen space method of acheiving global illumination using convolutional neural networks.
+A screen space method of achieving global illumination using convolutional neural networks.
 
 ## Resources
 [Preprint](IFT3150_E19_Fast_Screen_Space_Global_Illumination.pdf)  
